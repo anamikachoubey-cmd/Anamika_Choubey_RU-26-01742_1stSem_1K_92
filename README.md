@@ -24,6 +24,29 @@ Python, Lists, Dictionaries, Loops, Conditional Statements and Input Validation.
 3. Enter the required details.
 4. View the generated timetable.
 
+## Sample Input
+
+Days: 3  
+Periods per day: 3
+
+Subjects:
+- Maths: 3
+- Physics: 2
+- Programming: 3
+- English: 1
+
+## Sample Output
+
+```text
+Mon: Maths, Programming, Maths
+Tue: Physics, Programming, Maths
+Wed: Physics, Programming, English
+```
+
+## Screenshots
+
+Screenshots of all four test cases are available in the `TestCase` folder.
+
 ## Author
 **Name:** Anamika Choubey  
 **Enrollment No.:** RU-26-01742  
