@@ -41,6 +41,3 @@ Solving these challenges helped me understand Python dictionaries, loops, condit
 
 ## Learning
 Through this project, I learned how to use Python lists, dictionaries, loops, and conditional statements to solve a practical problem.
-
-## Conclusion
-This project helped me improve my Python programming and logical thinking skills.
